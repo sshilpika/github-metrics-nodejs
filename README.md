@@ -1,4 +1,3 @@
-# github-metrics-nodejs
 
 #Installation
 
