@@ -5,9 +5,9 @@
 
 apt-get install npm
 
-npm install octonode
+- npm install octonode
 
- Prerequisites
+ PREREQUISITES
 
 1. Create personal GitHub access token from
    https://github.com/settings/applications
@@ -21,11 +21,11 @@ npm install octonode
 
 Either grab github.js from this repo or install via NPM:
 
-npm install github-api
+- npm install github-api
  
-npm install tape
+- npm install tape
 
- Prerequisites
+ PREREQUISITES
 
 Place the private token in a user.json file as shown:
 ```json
