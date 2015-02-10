@@ -22,6 +22,8 @@ Installation of Github js wrapper library -- test-repo.js
 Either grab github.js from this repo or install via NPM:
 
 npm install github-api
+ 
+npm install tape
 
 
 
