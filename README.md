@@ -1,7 +1,7 @@
 
 #Installation
 
-#Installation of Octonode wrapper library -- octonode-test.js
+#Installation of octonode wrapper library -- octonode-test.js
 
 - apt-get install npm
 
@@ -17,7 +17,7 @@ PREREQUISITES
 
 
 
-#Installation of Github JS wrapper library -- Test-Repo.js
+#Installation of github js wrapper library -- test-repo.js
 
 Either grab github.js from this repo or install via NPM:
 
