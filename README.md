@@ -1,13 +1,13 @@
 
 #Installation
 
-INSTALLATION OF OCTONODE WRAPPER LIBRARY -- OCTONODE-TEST.JS
+#INSTALLATION OF OCTONODE WRAPPER LIBRARY -- OCTONODE-TEST.JS
 
 apt-get install npm
 
 npm install octonode
 
-# Prerequisites
+ Prerequisites
 
 1. Create personal GitHub access token from
    https://github.com/settings/applications
@@ -17,7 +17,7 @@ npm install octonode
 
 
 
-INSTALLATION OF GITHUB JS WRAPPER LIBRARY -- TEST-REPO.JS
+#INSTALLATION OF GITHUB JS WRAPPER LIBRARY -- TEST-REPO.JS
 
 Either grab github.js from this repo or install via NPM:
 
@@ -25,7 +25,7 @@ npm install github-api
  
 npm install tape
 
-# Prerequisites
+ Prerequisites
 
 Place the private token in a user.json file as shown:
 ```json
