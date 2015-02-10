@@ -1,7 +1,7 @@
 
 #Installation
 
-Installation of octonode wrapper library -- octonode-test.js
+INSTALLATION OF OCTONODE WRAPPER LIBRARY -- OCTONODE-TEST.JS
 
 apt-get install npm
 
@@ -17,13 +17,24 @@ npm install octonode
 
 
 
-Installation of Github js wrapper library -- test-repo.js
+INSTALLATION OF GITHUB JS WRAPPER LIBRARY -- TEST-REPO.JS
 
 Either grab github.js from this repo or install via NPM:
 
 npm install github-api
  
 npm install tape
+
+# Prerequisites
+
+Place the private token in a user.json file as shown:
+
+{
+    "USERNAME": "mikedeboertest",
+    "PASSWORD": "test1324",
+    "REPO": "github",
+    "TOKEN": "9090909210920920190909238398"
+}
 
 
 
