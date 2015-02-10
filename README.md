@@ -28,13 +28,13 @@ npm install tape
 # Prerequisites
 
 Place the private token in a user.json file as shown:
-
+```json
 {
     "USERNAME": "mikedeboertest",
     "PASSWORD": "test1324",
     "REPO": "github",
     "TOKEN": "9090909210920920190909238398"
 }
-
+```
 
 
