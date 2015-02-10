@@ -3,11 +3,11 @@
 
 #Installation of Octonode wrapper library -- octonode-test.js
 
-apt-get install npm
+- apt-get install npm
 
 - npm install octonode
 
- PREREQUISITES
+PREREQUISITES
 
 1. Create personal GitHub access token from
    https://github.com/settings/applications
@@ -25,7 +25,7 @@ Either grab github.js from this repo or install via NPM:
  
 - npm install tape
 
- PREREQUISITES
+PREREQUISITES
 
 Place the private token in a user.json file as shown:
 ```json
